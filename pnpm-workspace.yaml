@@ -1,3 +1,7 @@
+packages:
+  - "."
+
+# ... keep any other config (like ignoredBuiltDependencies) below this line
 allowBuilds:
   sharp: true
   unrs-resolver: true
