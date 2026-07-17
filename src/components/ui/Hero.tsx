@@ -36,7 +36,7 @@ export default function Hero() {
         </p>
 
         <h1 className="mt-5 font-display text-5xl leading-[1.05] tracking-tight text-bone md:text-6xl">
-          Shadrach
+          Shadrach Oguejiofor
           <br />
           Chukwuemeka
         </h1>

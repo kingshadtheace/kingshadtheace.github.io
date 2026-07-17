@@ -1,9 +1,9 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: "export",
+  output: "export", // 🔥 Force static HTML export
   images: {
-    unoptimized: true,
+    unoptimized: true, // 🔥 Required for GitHub Pages
   },
 };
 
