@@ -22,11 +22,13 @@ const plexMono = IBM_Plex_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Shadrach Chukwuemeka — IT & Visual Communication Specialist",
+  title:
+    "Shadrach Oguejiofor Chukwuemeka — IT & Visual Communication Specialist",
   description:
-    "Portfolio of Shadrach Chukwuemeka, a BSc IT student in Accra, Ghana working across software development and visual communication design.",
+    "Portfolio of Shadrach Oguejiofor Chukwuemeka, a BSc IT student in Accra, Ghana working across software development and visual communication design.",
   openGraph: {
-    title: "Shadrach Chukwuemeka — IT & Visual Communication Specialist",
+    title:
+      "Shadrach Oguejiofor Chukwuemeka — IT & Visual Communication Specialist",
     description:
       "BSc IT student in Accra, Ghana working across software development and visual communication design.",
     url: "https://kingshaddy.github.io",
