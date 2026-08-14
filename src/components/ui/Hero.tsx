@@ -4,7 +4,11 @@ import { GitHubIcon, LinkedInIcon, BehanceIcon } from "@/components/ui/Icons";
 import { buttonVariants } from "@/components/ui/button";
 
 const socials = [
-  { label: "GitHub", href: "https://github.com/kingshaddy", Icon: GitHubIcon },
+  {
+    label: "GitHub",
+    href: "https://github.com/kingshadtheace",
+    Icon: GitHubIcon,
+  },
   {
     label: "LinkedIn",
     href: "https://www.linkedin.com/in/king-shadrach-chukwuemeka-4453972a7",

@@ -19,7 +19,7 @@ export default function Building() {
           where the real work will land as it ships.
         </p>
         <a
-          href="https://github.com/kingshaddy"
+          href="https://github.com/kingshadtheace"
           target="_blank"
           rel="noopener noreferrer"
           className={cn(buttonVariants({ variant: "outline" }), "mt-7")}

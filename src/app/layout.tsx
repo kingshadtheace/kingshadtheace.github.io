@@ -31,7 +31,7 @@ export const metadata: Metadata = {
       "Shadrach Oguejiofor Chukwuemeka — IT & Visual Communication Specialist",
     description:
       "BSc IT student in Accra, Ghana working across software development and visual communication design.",
-    url: "https://kingshaddy.github.io",
+    url: "https://kingshadtheace.github.io",
     type: "website",
   },
 };
